@@ -1,4 +1,4 @@
-# terraform-aws_rke_cluster
+# Terraform aws rke cluster wordpress
 
 Módulo Terraform que cria um cluster RKE altamente disponível.
 
